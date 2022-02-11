@@ -1,0 +1,17 @@
+table td {
+    width: 145px;
+    height: 145px;
+    font-size: 90px;
+    text-align: center;
+    color: #DA0037;
+    text-transform: uppercase;
+    padding: 12px;
+    border: 3px solid #444444;
+}
+
+
+.Table-Flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
