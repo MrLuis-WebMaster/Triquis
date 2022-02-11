@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MrLuis-WebMaster/Triquis/static/css/main.ec2c3d7c.css",
+    "main.js": "/MrLuis-WebMaster/Triquis/static/js/main.226d2ee6.js",
+    "static/js/787.3d56c6a8.chunk.js": "/MrLuis-WebMaster/Triquis/static/js/787.3d56c6a8.chunk.js",
+    "index.html": "/MrLuis-WebMaster/Triquis/index.html",
+    "main.ec2c3d7c.css.map": "/MrLuis-WebMaster/Triquis/static/css/main.ec2c3d7c.css.map",
+    "main.226d2ee6.js.map": "/MrLuis-WebMaster/Triquis/static/js/main.226d2ee6.js.map",
+    "787.3d56c6a8.chunk.js.map": "/MrLuis-WebMaster/Triquis/static/js/787.3d56c6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2c3d7c.css",
+    "static/js/main.226d2ee6.js"
+  ]
+}
